@@ -1,0 +1,24 @@
+name: neutralbothotel
+version: 1.0.0.0
+dependencies:
+  - aeson
+  - base
+  - base-prelude
+  - containers
+  - mtl
+  - transformers
+  - lens
+  - text
+  - bytestring
+  - base16-bytestring
+  - wreq
+  - lens-aeson
+  - html-entities
+default-extensions:
+  - NoImplicitPrelude
+  - OverloadedStrings
+  - OverloadedLists
+  - ViewPatterns
+  - ScopedTypeVariables
+library:
+  source-dirs: src/

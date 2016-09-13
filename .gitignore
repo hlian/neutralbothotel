@@ -1,0 +1,4 @@
+*.cabal
+*.hi
+*.o
+config/

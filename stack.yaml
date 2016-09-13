@@ -1,0 +1,7 @@
+resolver: lts-6.17
+packages:
+- '.'
+extra-deps:
+  - html-entities-1.1.2
+flags: {}
+extra-package-dbs: []
